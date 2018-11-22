@@ -1,2 +1,3 @@
 <?php
-echo'4322';
+
+echo exec('whoami');
